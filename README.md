@@ -18,8 +18,9 @@ In data directory(downloaded in 2nd point above):
 
 
 
+below is the original readme from A2Summ repository:
 
-
+-------------------------------------------------------------------
 
 
 
